@@ -2,6 +2,9 @@
 
 This image provides the AWS CLI.
 
+## Install docker image
+docker build -t awscli .
+
 ## Usage
 
 Linux / MacOS:
